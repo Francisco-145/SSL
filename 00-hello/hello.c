@@ -1,7 +1,7 @@
 #include <stdio.h> 
-main( )
-{
 
-  return  printf("hola, mundo\n");
-
+int main() {
+    // Imprime "Hello, world" por pantalla
+    printf("Hello, world\n");
+    return 0;
 }
